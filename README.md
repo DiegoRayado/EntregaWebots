@@ -4,14 +4,14 @@
 2. [Controlador A*](#A*)
 3. [SigueParedes con GPS](#Sigueparedes)
 4. [Posibles Mejoras](#PM)
-## Introducción
+## Introducción <a name="Introduccion"></a>
 Tal y como se meciona en el guión se genera un laberinto de tamaño 10x12 (Según mi nombre) utilizando la herramienta proporcionada. El mapa es el siguiente:
 
 ![Captura](Images/MapaFoto.png)
 
 Se posicion el robot (e-puck) en el inicio (1.5,1.5). Por lo que se determina que el punto final se encuentra en la coordenada (8.5,10.5) ya que es la esquina opuesta. Para resolver este laberinto se han llevado a cabo 2 controladores para poder compararlos entre si. Ambos cuentan con enlace a video para ver su desempeño. 
 
-## Controlador A*
+## Controlador A* <a name="A*"></a>
 ### Video
 [Enlace](https://youtu.be/kf7UdsoY8r0)
 
@@ -48,7 +48,7 @@ Aqui podemos ver un fragmento de la terminal de salida de este controlador, se p
 ![Captura](Images/TerminalAstar.png)
 
 
-## SigueParedes con GPS
+## SigueParedes con GPS <a name="Sigueparedes"></a>
 ### Video
 [Enlace](https://youtu.be/G5IKbE7ssrU)
 ### Descripcion

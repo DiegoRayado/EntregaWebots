@@ -50,7 +50,7 @@ Aqui podemos ver un fragmento de la terminal de salida de este controlador, se p
 
 ## SigueParedes con GPS
 ### Video
-
+[Enlace](https://youtu.be/G5IKbE7ssrU)
 ### Descripcion
 Este controlador tiene como finalidad localizar una pelota verde y mandar la posición de la misma. 
 ### Uso del turretSlot
@@ -66,6 +66,7 @@ El e-puck no tiene incorporado un GPS por lo que se le añade uno.
 4. **Seguimiento de pared**:
    - Si el robot no detecta nada verde sigue la pared. 
 5. **Detención**: Si el porcentaje de verde en la imagen supera el umbral definido (50%), el robot se detiene completamente.
+
 
 
 

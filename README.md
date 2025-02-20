@@ -13,6 +13,7 @@ Se posicion el robot (e-puck) en el inicio (1.5,1.5). Por lo que se determina qu
 
 ## Controlador A*
 ### Video
+[Enlace](https://youtu.be/kf7UdsoY8r0)
 
 ### Características Principales
 - Implementación del algoritmo A* para encontrar el camino óptimo desde el punto inicial hasta la meta.

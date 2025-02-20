@@ -1,0 +1,396 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/objects/floors/protos/Floor.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/objects/solids/protos/SolidBox.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/robots/gctronic/e-puck/protos/E-puck.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/appearances/protos/Parquetry.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.5173291174083609 0.5384479003473029 0.6651649741929194 1.930493748634039
+  position 3.2324625885299705 -1.155735722081333 19.57847809882444
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+Floor {
+  translation 5 6 0
+  size 10 12
+  appearance Parquetry {
+    type "light strip"
+  }
+}
+SolidBox {
+  translation 0.5 0.5 0.5
+  name "box_0_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 1.5 0.5
+  name "box_0_1"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 2.5 0.5
+  name "box_0_2"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 3.5 0.5
+  name "box_0_3"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 4.5 0.5
+  name "box_0_4"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 5.5 0.5
+  name "box_0_5"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 6.5 0.5
+  name "box_0_6"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 7.5 0.5
+  name "box_0_7"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 8.5 0.5
+  name "box_0_8"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 9.5 0.5
+  name "box_0_9"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 10.5 0.5
+  name "box_0_10"
+  size 1 1 1
+}
+SolidBox {
+  translation 0.5 11.5 0.5
+  name "box_0_11"
+  size 1 1 1
+}
+SolidBox {
+  translation 1.5 0.5 0.5
+  name "box_1_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 1.5 3.5 0.5
+  name "box_1_3"
+  size 1 1 1
+}
+SolidBox {
+  translation 1.5 7.5 0.5
+  name "box_1_7"
+  size 1 1 1
+}
+SolidBox {
+  translation 1.5 11.5 0.5
+  name "box_1_11"
+  size 1 1 1
+}
+SolidBox {
+  translation 2.5 0.5 0.5
+  name "box_2_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 2.5 1.5 0.5
+  name "box_2_1"
+  size 1 1 1
+}
+SolidBox {
+  translation 2.5 3.5 0.5
+  name "box_2_3"
+  size 1 1 1
+}
+SolidBox {
+  translation 2.5 5.5 0.5
+  name "box_2_5"
+  size 1 1 1
+}
+SolidBox {
+  translation 2.5 7.5 0.5
+  name "box_2_7"
+  size 1 1 1
+}
+SolidBox {
+  translation 2.5 8.5 0.5
+  name "box_2_8"
+  size 1 1 1
+}
+SolidBox {
+  translation 2.5 9.5 0.5
+  name "box_2_9"
+  size 1 1 1
+}
+SolidBox {
+  translation 2.5 11.5 0.5
+  name "box_2_11"
+  size 1 1 1
+}
+SolidBox {
+  translation 3.5 0.5 0.5
+  name "box_3_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 3.5 5.5 0.5
+  name "box_3_5"
+  size 1 1 1
+}
+SolidBox {
+  translation 3.5 9.5 0.5
+  name "box_3_9"
+  size 1 1 1
+}
+SolidBox {
+  translation 3.5 11.5 0.5
+  name "box_3_11"
+  size 1 1 1
+}
+SolidBox {
+  translation 4.5 0.5 0.5
+  name "box_4_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 4.5 2.5 0.5
+  name "box_4_2"
+  size 1 1 1
+}
+SolidBox {
+  translation 4.5 3.5 0.5
+  name "box_4_3"
+  size 1 1 1
+}
+SolidBox {
+  translation 4.5 5.5 0.5
+  name "box_4_5"
+  size 1 1 1
+}
+SolidBox {
+  translation 4.5 6.5 0.5
+  name "box_4_6"
+  size 1 1 1
+}
+SolidBox {
+  translation 4.5 7.5 0.5
+  name "box_4_7"
+  size 1 1 1
+}
+SolidBox {
+  translation 4.5 9.5 0.5
+  name "box_4_9"
+  size 1 1 1
+}
+SolidBox {
+  translation 4.5 11.5 0.5
+  name "box_4_11"
+  size 1 1 1
+}
+SolidBox {
+  translation 5.5 0.5 0.5
+  name "box_5_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 5.5 2.5 0.5
+  name "box_5_2"
+  size 1 1 1
+}
+SolidBox {
+  translation 5.5 7.5 0.5
+  name "box_5_7"
+  size 1 1 1
+}
+SolidBox {
+  translation 5.5 11.5 0.5
+  name "box_5_11"
+  size 1 1 1
+}
+SolidBox {
+  translation 6.5 0.5 0.5
+  name "box_6_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 6.5 2.5 0.5
+  name "box_6_2"
+  size 1 1 1
+}
+SolidBox {
+  translation 6.5 4.5 0.5
+  name "box_6_4"
+  size 1 1 1
+}
+SolidBox {
+  translation 6.5 5.5 0.5
+  name "box_6_5"
+  size 1 1 1
+}
+SolidBox {
+  translation 6.5 7.5 0.5
+  name "box_6_7"
+  size 1 1 1
+}
+SolidBox {
+  translation 6.5 8.5 0.5
+  name "box_6_8"
+  size 1 1 1
+}
+SolidBox {
+  translation 6.5 9.5 0.5
+  name "box_6_9"
+  size 1 1 1
+}
+SolidBox {
+  translation 6.5 11.5 0.5
+  name "box_6_11"
+  size 1 1 1
+}
+SolidBox {
+  translation 7.5 0.5 0.5
+  name "box_7_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 7.5 5.5 0.5
+  name "box_7_5"
+  size 1 1 1
+}
+SolidBox {
+  translation 7.5 9.5 0.5
+  name "box_7_9"
+  size 1 1 1
+}
+SolidBox {
+  translation 7.5 11.5 0.5
+  name "box_7_11"
+  size 1 1 1
+}
+SolidBox {
+  translation 8.5 0.5 0.5
+  name "box_8_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 8.5 2.5 0.5
+  name "box_8_2"
+  size 1 1 1
+}
+SolidBox {
+  translation 8.5 3.5 0.5
+  name "box_8_3"
+  size 1 1 1
+}
+SolidBox {
+  translation 8.5 4.5 0.5
+  name "box_8_4"
+  size 1 1 1
+}
+SolidBox {
+  translation 8.5 5.5 0.5
+  name "box_8_5"
+  size 1 1 1
+}
+SolidBox {
+  translation 8.5 6.5 0.5
+  name "box_8_6"
+  size 1 1 1
+}
+SolidBox {
+  translation 8.5 7.5 0.5
+  name "box_8_7"
+  size 1 1 1
+}
+SolidBox {
+  translation 8.5 9.5 0.5
+  name "box_8_9"
+  size 1 1 1
+}
+SolidBox {
+  translation 8.5 11.5 0.5
+  name "box_8_11"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 0.5 0.5
+  name "box_9_0"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 1.5 0.5
+  name "box_9_1"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 2.5 0.5
+  name "box_9_2"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 3.5 0.5
+  name "box_9_3"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 4.5 0.5
+  name "box_9_4"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 5.5 0.5
+  name "box_9_5"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 6.5 0.5
+  name "box_9_6"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 7.5 0.5
+  name "box_9_7"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 8.5 0.5
+  name "box_9_8"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 9.5 0.5
+  name "box_9_9"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 10.5 0.5
+  name "box_9_10"
+  size 1 1 1
+}
+SolidBox {
+  translation 9.5 11.5 0.5
+  name "box_9_11"
+  size 1 1 1
+}
+E-puck {
+  translation 1.5 1.5 0.005
+  rotation 0 0 1 1.5707996938995747
+  controller "Astar"
+}

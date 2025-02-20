@@ -56,6 +56,8 @@ Este controlador tiene como finalidad localizar una pelota verde y mandar la pos
 ### Uso del turretSlot
 El e-puck no tiene incorporado un GPS por lo que se le añade uno. 
 
+![Captura](Images/Uso_turretSlot.png)
+
 ### Lógica del Programa
 1. **Inicialización**: Se configuran los dispositivos y sensores del robot.
 2. **Detección de objetos verdes**: Se analiza la imagen capturada por la cámara para detectar la presencia de color verde.
@@ -66,7 +68,10 @@ El e-puck no tiene incorporado un GPS por lo que se le añade uno.
 4. **Seguimiento de pared**:
    - Si el robot no detecta nada verde sigue la pared. 
 5. **Detención**: Si el porcentaje de verde en la imagen supera el umbral definido (50%), el robot se detiene completamente.
+### Terminal
+Va mostrando la posicion del GPS y finaliza avisando de que ha llegado a la pelota.
 
+![Captura](Images/TerminalSigueParedes.png)
 
 
 

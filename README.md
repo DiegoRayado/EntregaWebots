@@ -14,4 +14,4 @@ El mapa en csv es el siguiente:
 1;0;1;1;1;1;1;1;0;1;0;1
 1;1;1;1;1;1;1;1;1;1;1;1
 
-El cual podemos ver en MapaFoto
+El cual podemos ver en ![Demo](FotoMapa.png)

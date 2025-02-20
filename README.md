@@ -3,7 +3,6 @@
 1. [Introducción](#Introduccion)
 2. [Controlador A*](#A*)
 3. [SigueParedes con GPS](#Sigueparedes)
-4. [Posibles Mejoras](#PM)
 ## Introducción <a name="Introduccion"></a>
 Tal y como se meciona en el guión se genera un laberinto de tamaño 10x12 (Según mi nombre) utilizando la herramienta proporcionada. El mapa es el siguiente:
 
